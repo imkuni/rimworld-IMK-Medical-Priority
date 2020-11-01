@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>MedicalPriority</identifier>
+    <version>0.1.0.0</version>
+    <showCrossPromotions>true</showCrossPromotions>
+	<manifestUri>https://github.com/imkuni/rimworld/blob/main/%5BIMK%5D%20Medical%20Priority/About/Manifest.xml</manifestUri>
+</Manifest>
+
+<!--
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>NutrientPasteProduction</identifier>
+    <version>0.1.4.0</version>
+    <showCrossPromotions>true</showCrossPromotions>
+    <manifestUri>https://raw.githubusercontent.com/Maaxar/NutrientPasteProduction/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/Maaxar/NutrientPasteProduction/releases/latest</downloadUri>
+</Manifest>
+-->

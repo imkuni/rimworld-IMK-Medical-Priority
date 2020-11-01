@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Medical Priority</name>
+	<author>imkuni</author>
+	<url>https://github.com/imkuni/rimworld/tree/main/%5BIMK%5D%20Medical%20Priority</url>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>imkuni.MedicalPriority</packageId>
+	<description>
+make medical care most priority
+	</description>
+</ModMetaData>
+
+<!--
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Nutrient Paste Production</name>
+	<author>Maaxar</author>
+	<url>https://github.com/Maaxar/NutrientPasteProduction</url>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>Maaxar.NutrientPasteProduction</packageId>
+	<description>
+make medical care most priority
+	</description>
+</ModMetaData>
+-->
