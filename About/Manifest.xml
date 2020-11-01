@@ -3,7 +3,7 @@
     <identifier>MedicalPriority</identifier>
     <version>0.1.0.0</version>
     <showCrossPromotions>true</showCrossPromotions>
-	<manifestUri>https://github.com/imkuni/rimworld/blob/main/%5BIMK%5D%20Medical%20Priority/About/Manifest.xml</manifestUri>
+	<manifestUri>https://raw.githubusercontent.com/imkuni/rimworld-IMK-Medical-Priority/main/About/Manifest.xml</manifestUri>
 </Manifest>
 
 <!--
