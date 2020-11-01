@@ -4,6 +4,7 @@
     <version>0.1.0.0</version>
     <showCrossPromotions>true</showCrossPromotions>
 	<manifestUri>https://raw.githubusercontent.com/imkuni/rimworld-IMK-Medical-Priority/main/About/Manifest.xml</manifestUri>
+	<downloadUri>https://github.com/imkuni/rimworld-IMK-Medical-Priority/releases/latest</downloadUri>
 </Manifest>
 
 <!--
